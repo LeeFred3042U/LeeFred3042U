@@ -4,8 +4,9 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=2000&pause=2000&color=00C7BF&center=true&vCenter=true&width=435&lines=Hi!+I+am+Zeeshan.;doing+BTech(IT)+%40+ASET'28;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=2000&pause=2000&color=00C7BF&center=true&vCenter=true&width=435&lines=Hi!+I+am+Zeeshan.;*|_/^_^\_|*;" alt="Typing SVG" /></a>
 </p>
+
  <img src='https://github-widgetbox.vercel.app/api/profile?username=LeeFred3042U&theme=darkmode&data=followers,repositories,stars,commits' alt="github.com/kush1jpeg"/>
 
 <div align="center">
@@ -39,24 +40,33 @@
 </p>
 <br>
 
-## 🧰 Tech Stack
+## Brainwired to the Stack
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://github.com/rdecarlo73/icons/raw/refs/heads/master/sql.ico" alt="SQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go" alt="Go" width="60" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="60" height="50"/>
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="60" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" height="50"/>
+  <img src="https://github.com/rdecarlo73/icons/raw/refs/heads/master/sql.ico" alt="SQL" width="60" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="60" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="50"/>
 </p>
 
 
-<br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeeFred3042U&theme=dracula&border=false"  display=block width=100% height=auto  alt="1" >
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeeFred3042U&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
 
-<br>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=LeeFred3042U&show_icons=true&theme=dracula" width="500px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeFred3042U&theme=dracula&border=true&include_all_commits=true&count_private=true&layout=compact" width="445px"/>
+    </td>
+  </tr>
+</table>
