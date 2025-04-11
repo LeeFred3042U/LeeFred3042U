@@ -57,16 +57,17 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeeFred3042U&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeeFred3042U&bg_color=0f0f0f&color=ff4f4f&line=8b0000&point=ff1a1a&area=true&area_color=4b0000&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LeeFred3042U&show_icons=true&theme=dracula" width="500px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=LeeFred3042U&show_icons=true&theme=dark&bg_color=0f0f0f&title_color=ff1a1a&text_color=ffffff&icon_color=b30000&border_color=4b0000" width="500px"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeFred3042U&theme=dracula&border=true&include_all_commits=true&count_private=true&layout=compact" width="445px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeFred3042U&include_all_commits=true&count_private=true&layout=compact&theme=dark&bg_color=0f0f0f&title_color=ff1a1a&text_color=ffffff&icon_color=b30000&border_color=4b0000" width="445px"/>
     </td>
   </tr>
 </table>
+
