@@ -35,15 +35,15 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/zeeshanalavi1" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="60" height="50"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/zeeshan-ahmad-alavi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="39"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="49"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:zeeshanalavi1@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Email" width="55" height="46"/>
   </a>
 </p>
 </p>
@@ -67,7 +67,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LeeFred3042U&show_icons=true&theme=dark&bg_color=0f0f0f&title_color=00ffe4&text_color=ffffff&icon_color=00bfbf&border_color=004d4d" width="500px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=LeeFred3042U&show_icons=true&theme=dark&bg_color=0f0f0f&title_color=00ffe4&text_color=ffffff&icon_color=00bfbf&border_color=004d4d" width="585px"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeFred3042U&include_all_commits=true&count_private=true&layout=compact&theme=dark&bg_color=0f0f0f&title_color=00ffe4&text_color=ffffff&icon_color=00bfbf&border_color=004d4d" width="445px"/>
