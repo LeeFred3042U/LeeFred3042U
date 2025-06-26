@@ -18,11 +18,11 @@
   <table>
     <tr>
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="70"/></td>
-      <td><strong>Currently at just the start</strong></td>
+      <td><strong>Exploring Basic HTTP request handling using net/http</strong></td>
     </tr>
     <tr>
       <td><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="70"/></td>
-      <td><strong>Just creating tables and queries in <br>theory to be used is not defined</strong></td>
+      <td><strong>Designing Schemas and Writing Raw SQL queries</strong></td>
     </tr>
   </table>
 </div>
@@ -52,7 +52,7 @@
 ## Brainwired to the Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,html,css,postgresql,git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=go,python,html,css,postgresql" height="50"/>
 </p>
 
 
